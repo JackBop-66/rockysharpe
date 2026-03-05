@@ -8,9 +8,13 @@
 html {
     scroll-behavior: smooth;
 }
+@font-face {
+    font-family: 'Indie Flower';
+    src: url('fonts/IndieFlower-Regular.ttf') format('truetype');
+}
 
 body {
-    font-family: 'Indie Flower', cursive, Arial, sans-serif;
+    font-family: 'Indie Flower', cursive;
     background-color: #d4d0c8;
     color: #333;
     position: relative;
